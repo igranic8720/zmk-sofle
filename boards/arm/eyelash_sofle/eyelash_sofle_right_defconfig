@@ -40,5 +40,3 @@ CONFIG_ZMK_BLE=y
 #EXT POWER
 CONFIG_ZMK_EXT_POWER=y
 
-# enable display drivers
-CONFIG_ZMK_DISPLAY=y
