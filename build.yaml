@@ -3,10 +3,10 @@ include:
  # - board: eyelash_sofle_left
 #    shield: nice_view
   - board: eyelash_sofle_right
-    sheild: kyria_left nice_view_adapter nice_view_gem
+    sheild: nice_view_adapter nice_view_gem
     # shield: nice_view_custom
   - board: eyelash_sofle_left
-    shield: kyria_right nice_view_adapter nice_view_gem 
+    shield: nice_view_adapter nice_view_gem 
     # shield: nice_view
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
