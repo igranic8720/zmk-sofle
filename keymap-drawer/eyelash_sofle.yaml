@@ -57,7 +57,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-command$$
-  - EXTRAS
+  - EXTRASA
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: KBCTRL, h: toggle}
@@ -65,7 +65,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - {t: QWERTY, h: toggle}
   - $$mdi:backspace-reverse-outline$$
-  EXTRAS:
+  EXTRASA:
   - {t: '`', s: '~'}
   - F1
   - F2
