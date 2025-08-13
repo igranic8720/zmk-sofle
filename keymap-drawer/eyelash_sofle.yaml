@@ -60,7 +60,7 @@ layers:
   - EXTRAS
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: KBD_CTRL, h: toggle}
+  - {t: KBCTRL, h: toggle}
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-option$$
   - {t: QWERTY, h: toggle}
@@ -130,7 +130,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  KBD_CTRL:
+  KBCTRL:
   - $$mdi:progress-download$$
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
