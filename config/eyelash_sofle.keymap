@@ -43,11 +43,11 @@
 
         COLEMAK {
             bindings = <
-&kp ESC           &kp N1     &kp N2        &kp N3        &kp N4  &kp N5           &none  &kp N6  &kp N7     &kp N8         &kp N9   &kp N0         &kp SQT
-&kp TAB           &kp Q      &kp W         &kp F         &kp P   &kp G            &none  &kp J   &kp L      &kp U          &kp Y    &kp SEMICOLON  &kp BACKSLASH
-&kp LEFT_SHIFT    &kp A      &kp R         &kp S         &kp T   &kp D            &none  &kp H   &kp N      &kp E          &kp I    &kp O          &kp ENTER
-&kp LEFT_CONTROL  &kp Z      &kp X         &kp C         &kp V   &kp B            &none  &kp K   &kp M      &kp COMMA      &kp DOT  &kp FSLH       &kp RIGHT_SHIFT
-&none             &kp LCTRL  &kp LEFT_GUI  &kp LEFT_GUI  &mo 1   &kp BACKSPACE    &none  &tog 2  &kp SPACE  &kp RIGHT_ALT  &tog 3   &kp DELETE
+&kp ESC           &kp N1      &kp N2           &kp N3        &kp N4  &kp N5           &none  &kp N6  &kp N7     &kp N8         &kp N9   &kp N0         &kp SQT
+&kp TAB           &kp Q       &kp W            &kp F         &kp P   &kp G            &none  &kp J   &kp L      &kp U          &kp Y    &kp SEMICOLON  &kp BACKSLASH
+&kp LEFT_SHIFT    &kp A       &kp R            &kp S         &kp T   &kp D            &none  &kp H   &kp N      &kp E          &kp I    &kp O          &kp ENTER
+&kp LEFT_CONTROL  &kp Z       &kp X            &kp C         &kp V   &kp B            &none  &kp K   &kp M      &kp COMMA      &kp DOT  &kp FSLH       &kp RIGHT_SHIFT
+&none             &kp K_MUTE  &rgb_ug RGB_TOG  &kp LEFT_GUI  &mo 1   &kp BACKSPACE    &none  &tog 2  &kp SPACE  &kp RIGHT_ALT  &tog 3   &kp DELETE
             >;
 
             display-name = "COLEMAK";
