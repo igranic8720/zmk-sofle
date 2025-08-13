@@ -54,8 +54,8 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-command$$
+  - MUTE
+  - RGB TOG
   - $$mdi:apple-keyboard-command$$
   - EXTRAS
   - {t: '$$mdi:backspace$$', type: backspace}
