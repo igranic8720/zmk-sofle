@@ -13,4 +13,4 @@ manifest:
       remote: m165437 #new entry
       revision: main #new entry
   self:
-    path: boards
+    path: config
