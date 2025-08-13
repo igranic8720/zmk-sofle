@@ -51,7 +51,7 @@
             >;
 
             display-name = "COLEMAK";
-            &rgb_ug RGB_COLOR_HSB(158,0,255)
+            &rgb_ug RGB_COLOR_HSB(158,0,255);
         };
 
         EXTRAS {
@@ -64,7 +64,7 @@
             >;
 
             display-name = "EXTRAS";
-            &rgb_ug RGB_COLOR_HSB(0,200,255)
+            &rgb_ug RGB_COLOR_HSB(0,200,255);
         };
 
         KBCTRL {
@@ -77,7 +77,7 @@
             >;
 
             display-name = "KBCTRL";
-            &rgb_ug RGB_COLOR_HSB(255,0,0)
+            &rgb_ug RGB_COLOR_HSB(255,0,0);
         };
 
         QWERTY {
@@ -90,7 +90,7 @@
             >;
 
             display-name = "QWERTY";
-            &rgb_ug RGB_COLOR_HSB(0,0,255)
+            &rgb_ug RGB_COLOR_HSB(0,0,255);
         };
     };
 };
