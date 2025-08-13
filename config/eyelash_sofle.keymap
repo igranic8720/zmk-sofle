@@ -62,7 +62,7 @@
 &none      &trans           &trans          &trans           &trans           &trans             &none  &trans           &trans           &trans        &trans         &trans
             >;
 
-            display-name = "EXTRAS";
+            display-name = "EXTRASA";
         };
 
         KBCTRL {
